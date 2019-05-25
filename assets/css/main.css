@@ -835,7 +835,7 @@ table.alt tbody tr td {
   .testimonials > :nth-child(3n) {
     width: calc(33.3333333333% + -0.5rem); }
   .testimonials .content {
-    border-radius: 4px;
+    /* border-radius: 4px; */
     height: 100%;
     padding: 3rem; }
     .testimonials .content .author {
@@ -853,7 +853,7 @@ table.alt tbody tr td {
         margin-right: 2rem;
         width: 20%; }
         .testimonials .content .author .image img {
-          border-radius: 100%;
+          /* border-radius: 100%; */
           max-width: 100%; }
     .testimonials .content .credit {
       font-size: 0.75rem; }
@@ -1746,12 +1746,12 @@ ul.icons {
 
 /* Image */
 .image {
-  border-radius: 4px;
+  /* border-radius: 4px; */
   border: 0;
   display: inline-block;
   position: relative; }
   .image img {
-    border-radius: 4px;
+    /* border-radius: 4px; */
     display: block; }
   .image.left, .image.right {
     max-width: 40%; }
